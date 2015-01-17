@@ -1,0 +1,25 @@
+span#site-name { 
+  font-size: 4em; 
+  text-shadow: 0px 0px 6px #000;
+  padding-left: 6px;
+}
+div#footer blockquote {
+  margin: 0;
+}
+#header-menu ul.menu li a {
+  font-family: 'Lato';
+  text-shadow: 0 0 6px #000;
+  text-transform: Capitalize;
+}
+h1 {
+  color: #494D4F;
+  font-size: 30px;
+  font-weight: normal;
+}
+div#slideshow h2 {
+  color: #494D4F;
+}
+div.node-foto div.field-name-field-foto div.field-item {
+  display: inline-table;
+  padding: 10px;
+}
